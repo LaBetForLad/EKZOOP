@@ -1,0 +1,4 @@
+C:\Users\Olymp_32\Desktop\OOPExam\OOPExam\bin\Debug\OOPExam.exe
+C:\Users\Olymp_32\Desktop\OOPExam\OOPExam\bin\Debug\OOPExam.pdb
+C:\Users\Olymp_32\Desktop\OOPExam\OOPExam\obj\x86\Debug\OOPExam.exe
+C:\Users\Olymp_32\Desktop\OOPExam\OOPExam\obj\x86\Debug\OOPExam.pdb
